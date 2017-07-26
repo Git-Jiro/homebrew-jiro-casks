@@ -8,5 +8,5 @@ cask 'gridcoin' do
   name 'Gridcoin macOS Wallet'
   homepage 'https://gridcoin.us/'
 
-  app 'gridcoin.app'
+  app 'gridcoinresearch.app'
 end
