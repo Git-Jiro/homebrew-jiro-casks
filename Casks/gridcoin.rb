@@ -1,10 +1,10 @@
 cask 'gridcoin' do
-  version '3.6.0.2'
-  sha256 '130dc1bd67b13da3a42122477d1211d84df651e103bb58dbd4a32920d7be7a18'
+  version '3.6.1.0'
+  sha256 '06a7e5f9c0bdc501fafd29103b80ca60d54211941b4dda0c1f031405acfb5da6'
 
   url "https://github.com/Git-Jiro/homebrew-jiro/releases/download/#{version}/gridcoinresearch.dmg"
   appcast 'https://github.com/Git-Jiro/homebrew-jiro/releases.atom',
-          checkpoint: '2946293c5098724758ddcefe54cb83388b76aced75f48ec315bb52ac02659738'
+          checkpoint: '75493dab2d33510c105cd393de95713d96b99f5e5fe82ebe4df9d6ff6e7c9ff1'
   name 'Gridcoin macOS Wallet'
   homepage 'https://gridcoin.us/'
 
