@@ -1,6 +1,6 @@
 cask 'gridcoin' do
-  version '4.0.5.0'
-  sha256 'd7155325a07022363b265c3a468d486c9b62a424697a0407d229ac89a073b610'
+  version '4.0.6.0'
+  sha256 '48002b867661c85b2cbb41d897d6821cd39d58dfff404832ecbbafbe7eaf2569'
 
   url "https://github.com/Git-Jiro/homebrew-jiro/releases/download/#{version}/gridcoinresearch.dmg"
   appcast 'https://github.com/Git-Jiro/homebrew-jiro/releases.atom'
