@@ -1,6 +1,6 @@
 cask 'gridcoin' do
-  version '5.3.3.0'
-  sha256 '6978e5b71b6a247e55229fa8d737c8e2314cfa4e186315d0371e1176af16e548'
+  version '5.4.0.0'
+  sha256 'd431c8f342431ffe6f2124ec30d00f597c0dda562dd0cdc599ae05b547172f88'
 
   url "https://github.com/Git-Jiro/homebrew-jiro/releases/download/v#{version}/gridcoinresearch_bigsur_or_mojave.dmg"
   appcast 'https://github.com/Git-Jiro/homebrew-jiro/releases.atom'
